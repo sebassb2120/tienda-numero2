@@ -9,3 +9,8 @@
 .menu{
     background-color: antiquewhite;
 }
+
+.btn-Eliminar{
+    display: flex;
+    align-items: center;
+}
